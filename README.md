@@ -55,6 +55,8 @@
 
 <h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
+<img src="xampp.png"  alt="xampp " width="33%"/>
+
 
 
 <h2 id="Contact">📲 Contact</h2>
