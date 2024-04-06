@@ -50,8 +50,15 @@
 
 
 <h2 id="Screenshot">🛠️ Screenshot</h2>
+
 <h2 id="Video">🎥 Video</h2>
+
+<h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
+1. Tenha o Xampp Instalado com os ambientes propriamente rodando
+
+
 <h2 id="Contact">📲 Contact</h2>
+
 <a href="your_link_here">
     <img src="./img/linkedin.png" alt="ATM Bank System" width="8%" />
 </a>
