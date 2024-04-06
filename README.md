@@ -40,11 +40,10 @@
 
 <h2 id="Technologies">🛠️ Technologies</h2>
 
-- `LANGUAGE: Java`
-- `GUI (Graphical User Interface) Toolkit: AWT (Abstract Window Toolkit) and Swing`
-- `DATABASE: MySQL`
-- `IDE: Neatbeans`
-- `Agile Project Management: Jira`
+- `PHP`
+- `Chart.js`
+
+
 
 <h2 id="Screenshot">🛠️ Screenshot</h2>
 <h2 id="Video">🎥 Video</h2>
