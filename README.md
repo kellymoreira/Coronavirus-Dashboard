@@ -57,6 +57,9 @@
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
 <img src="xampp.png"  alt="xampp" width="50%"/>
 
+2. Tenha certeza  que esteja com o arquivo xampp na localização C:
+
+
 
 
 <h2 id="Contact">📲 Contact</h2>
