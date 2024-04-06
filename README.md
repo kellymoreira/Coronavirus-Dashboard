@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/covid.png"  alt="Covid-19 " width="33%"/>
+<img src="./img/covid.png"  alt="Covid-19" width="30%"/>
 </p>
 
 <h1 align="center">
@@ -55,7 +55,7 @@
 
 <h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
-<img src="xampp.png"  alt="xampp " width="33%"/>
+<img src="xampp.png"  alt="xampp" width="50%"/>
 
 
 
