@@ -41,7 +41,11 @@
 <h2 id="Technologies">🛠️ Technologies</h2>
 
 - `PHP`
+- `JavaScript`
+- `HTML`
+- `CSS`
 - `Chart.js`
+- `MySQL`
 
 
 
