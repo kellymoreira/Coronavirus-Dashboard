@@ -58,9 +58,11 @@
 <img src="xampp.png"  alt="xampp" width="50%"/>
 
 2. Tenha certeza  que esteja com o arquivo xampp na localização C:
+<img src="opening.png"  alt="xampp" width="50%"/>
 
-
-
+3. Abra o arquivo xampp localizado no Disco Local (C:)
+4. Dentro de xampp, abra o arquivo chamado htdocs
+5. Então, abra o arquivo API-Covid-19
 
 <h2 id="Contact">📲 Contact</h2>
 
