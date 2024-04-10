@@ -66,6 +66,10 @@
 
 https://youtu.be/pS0U-PsXUlg?si=6lgz3mBQfxVFP8-q
 
+
+para adicionar uma senha ao login do phpmyadmin
+https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH
+
 <h2 id="Contact">📲 Contact</h2>
 
 <a href="your_link_here">
