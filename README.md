@@ -12,7 +12,7 @@
 
 
 <p align="center">
-        <img alt="Project Made at March 2024" src="https://img.shields.io/badge/%20%20creation-march%2F2024-91ddf7">
+        <img alt="Project Made at April 2024" src="https://img.shields.io/badge/%20%20creation-march%2F2024-91ddf7">
         <img alt="Code Size in bytes" src="https://img.shields.io/github/languages/code-size/kellymoreira/ATM-Bank-System?color=fcb3cf" />
 	<img alt="Main Language" src="https://img.shields.io/github/languages/top/kellymoreira/ATM-Bank-System?color=4682B4"/>
         <img alt="Project Status" src="https://img.shields.io/badge/status-completed-91ddf7">
@@ -94,12 +94,27 @@ $ git clone https://github.com/kellymoreira/Coronavirus-Dashboard.git
 Tenha certeza de abrir o arquivo `coronavirus-dashboard` na localização:
 `C:\xampp\htdocs\coronavirus-dashboard`
 
-Com os serviços devidamente ativados, digite no Navegador:
+Com os serviços devidamente ativados, digite no Navegador: <br>
 http://localhost/coronavirus-dashboard/
 
 
-para adicionar uma senha ao login do phpmyadmin
-https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH
+
+<h2 id="Banco de Dados">🪑 Configuração do Banco de Dados</h2>
+phpMyAdmin foi utilizado para administrar os dados de acesso aos logs.
+
+Preview SQL
+```sql
+CREATE TABLE `covid_19`.`access_records` (
+`id` INT NULL AUTO_INCREMENT , 
+`access_date_time` DATETIME NOT NULL , 
+`country` VARCHAR(50) NOT NULL , 
+PRIMARY KEY (`id`)) ENGINE = InnoDB;
+```
+
+É importante possuir uma senha configurada para conectar o Banco de Dados.
+Caso não possuir uma, assista esse vídeo para configurar uma: <br>
+[Link](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
+
 
 <h2 id="Contact">📲 Contact</h2>
 
