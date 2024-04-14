@@ -52,6 +52,7 @@
 <h2 id="Screenshot">🛠️ Screenshot</h2>
 
 <h2 id="Video">🎥 Video</h2>
+<h2 id="Dependências">📲 Dependências</h2>
 
 <h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
