@@ -72,16 +72,15 @@ Para rodar o projeto localmente, é necessário ter os programas já instalados:
 2. [XAMPP](https://www.apachefriends.org/index.html)
 3. [Composer](https://getcomposer.org/)
 
-Caso não os posssua, recomendo fortemente seguir a linha de tutoriais:
+Caso não os tenha, recomendo seguir a ordem dos tutoriais:
 1. Como Instalar XAMPP:
-   [Confira Aqui](https://www.youtube.com/watch?v=VCHXCusltqI)
-   
+   [Link](https://www.youtube.com/watch?v=VCHXCusltqI)
+
 2. Como Instalar PHP e Composer: 
-   [Confira Aqui](https://www.youtube.com/watch?v=pS0U-PsXUlg)
+   [Link](https://www.youtube.com/watch?v=pS0U-PsXUlg)
 
-**OBS:** No tutorial de Setup do Composer, é importante utilizarmos o caminho
-Como estamos uutilizando o xampp, é importante escolher o caminho que está localizado o arquivo. Segue a imagem:
-
+**Observação:** No tutorial de Instalação do Composer, no Setup, é **importante** utilizarmos o caminho do arquivo correto. <br>
+Assim como está descrito: `C:\xampp\php\php.exe`
 
 <img src="xampp-location.png"  alt="xampp" width="50%"/>
 
