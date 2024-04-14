@@ -55,15 +55,11 @@
 
 <h2 id="Dependências">📲 Dependências</h2>
 
-```
-PHP 8.2.12
-```
-```
-Composer 2.7.2
-```
-```
-Chart.js 4.4.2
-```
+- **XAMPP Control Panel v3.3.0**: Utilizado para criar um ambiente de desenvolvimento local.
+- **PHP v8.2.12**: Linguagem utilizada no backend.
+- **JavaScript, CSS3, HTML5**: Construção da interfaces para o usuário.
+- **Chart.js 4.4.2**: Biblioteca JavaScript para criação de gráficos e visualizações de dados.
+
 
 <h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
 
