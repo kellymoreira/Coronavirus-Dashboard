@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    API Covid-19
+    Coronavírus Dashboard
 </h1>
 
 <p align="center">
