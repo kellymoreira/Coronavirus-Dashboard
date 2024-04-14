@@ -66,11 +66,20 @@ Chart.js 4.4.2
 ```
 
 <h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
-Para rodar o projeto localmente, é necessário ter o XAMPP instalado.
-<br>
-Caso não possua o programa instalado, recomendo fortemente seguir o tutorial abaixo para instalação do PHP e do XAMPP:
 
-[Instalação do PHP e XAMPP - Tutorial em Vídeo](https://youtu.be/pS0U-PsXUlg?si=6lgz3mBQfxVFP8-q)
+Para rodar o projeto localmente, é necessário ter os programas já instalados:
+1. [PHP](https://www.php.net/)
+2. [XAMPP](https://www.apachefriends.org/index.html)
+3. [Composer](https://getcomposer.org/)
+
+Caso não os posssua, recomendo fortemente seguir a linha de tutoriais:
+1. Como Instalar XAMPP:
+   [Confira Aqui](https://www.youtube.com/watch?v=VCHXCusltqI)
+   
+2. Como Instalar PHP e Composer: 
+   [Confira Aqui](https://www.youtube.com/watch?v=pS0U-PsXUlg)
+
+OBS: Na hora do Setup do Composer, utilize o caminho do xampp
 
 
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
