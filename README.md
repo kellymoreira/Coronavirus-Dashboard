@@ -54,6 +54,14 @@
 <h2 id="Video">🎥 Video</h2>
 <h2 id="Dependências">📲 Dependências</h2>
 
+```
+PHP 8.2.12
+```
+```
+Composer 2.7.2
+```
+
+
 <h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
 <img src="xampp.png"  alt="xampp" width="50%"/>
