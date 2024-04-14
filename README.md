@@ -79,7 +79,11 @@ Caso não os posssua, recomendo fortemente seguir a linha de tutoriais:
 2. Como Instalar PHP e Composer: 
    [Confira Aqui](https://www.youtube.com/watch?v=pS0U-PsXUlg)
 
-OBS: Na hora do Setup do Composer, utilize o caminho do xampp
+**OBS:** No tutorial de Setup do Composer, é importante utilizarmos o caminho
+Como estamos uutilizando o xampp, é importante escolher o caminho que está localizado o arquivo. Segue a imagem:
+
+
+<img src="xampp-location.png"  alt="xampp" width="50%"/>
 
 
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
