@@ -52,6 +52,7 @@
 <h2 id="Screenshot">🛠️ Screenshot</h2>
 
 <h2 id="Video">🎥 Video</h2>
+
 <h2 id="Dependências">📲 Dependências</h2>
 
 ```
@@ -60,9 +61,18 @@ PHP 8.2.12
 ```
 Composer 2.7.2
 ```
-
+```
+Chart.js 4.4.2
+```
 
 <h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
+Para rodar o projeto localmente, é necessário ter o XAMPP instalado.
+<br>
+Caso não possua o programa instalado, recomendo fortemente seguir o tutorial abaixo para instalação do PHP e do XAMPP:
+
+[Instalação do PHP e XAMPP - Tutorial em Vídeo](https://youtu.be/pS0U-PsXUlg?si=6lgz3mBQfxVFP8-q)
+
+
 1. Tenha o Xampp Instalado com os ambientes propriamente rodando
 <img src="xampp.png"  alt="xampp" width="50%"/>
 
@@ -73,7 +83,6 @@ Composer 2.7.2
 4. Dentro de xampp, abra o arquivo chamado htdocs
 5. Então, abra o arquivo API-Covid-19
 
-https://youtu.be/pS0U-PsXUlg?si=6lgz3mBQfxVFP8-q
 
 
 para adicionar uma senha ao login do phpmyadmin
