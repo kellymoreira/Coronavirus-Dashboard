@@ -12,7 +12,7 @@
 
 
 <p align="center">
-        <img alt="Project Made at April 2024" src="https://img.shields.io/badge/%20%20creation-march%2F2024-be0ea3">
+        <img alt="Project Made at April 2024" src="https://img.shields.io/badge/%20%20criação-abril%2F2024-be0ea3">
         <img alt="Code Size in bytes" src="https://img.shields.io/github/languages/code-size/kellymoreira/Coronavirus-Dashboard?color=25beae" />
 	<img alt="Main Language" src="https://img.shields.io/github/languages/top/kellymoreira/Coronavirus-Dashboard?color=be0ea3"/>
       <!--  <img alt="Project Status" src="https://img.shields.io/badge/status-completed-25beae"> -->
