@@ -13,7 +13,7 @@
 
 <p align="center">
         <img alt="Project Made at April 2024" src="https://img.shields.io/badge/%20%20creation-march%2F2024-be0ea3">
-        <img alt="Code Size in bytes" src="https://img.shields.io/github/languages/code-size/kellymoreira/Coronavirus-Dashboard?color=25beae" />
+     <!--   <img alt="Code Size in bytes" src="https://img.shields.io/github/languages/code-size/kellymoreira/Coronavirus-Dashboard?color=25beae" /> -->
 	<img alt="Main Language" src="https://img.shields.io/github/languages/top/kellymoreira/Coronavirus-Dashboard?color=be0ea3"/>
       <!--  <img alt="Project Status" src="https://img.shields.io/badge/status-completed-25beae"> -->
 </p>
@@ -31,13 +31,13 @@
 </p>
 
 
-<h2 id="Sobre">📋 Sobre</h2>
+<h2 id="Sobre">Sobre</h2>
 
 >**Coronavirus Dashboard** consiste num sistema que possibilita o usuário obter informações sobre os casos de mortes por Covid-19. <br>
->Dados sobre o número de casos confirmados e mortes de três países em específico afetados pelo Coronavírus.* <br>
+>Dados sobre o número de casos confirmados e mortes de três países em específico afetados pelo Coronavírus. <br>
 
 
-<h2 id="Tecnologias">🛠️ Tecnologias</h2>
+<h2 id="Tecnologias">Tecnologias</h2>
 
 - `XAMPP`
 - `PHP`
@@ -47,7 +47,7 @@
 - `HTML`
 - `Chart.js`
 
-<h2 id="Dependências">📲 Dependências</h2>
+<h2 id="Dependências">Dependências</h2>
 
 - **XAMPP Control Panel v3.3.0**: Utilizado para criar um ambiente de desenvolvimento local.
 - **PHP v8.2.12**: Linguagem utilizada no backend.
@@ -66,7 +66,7 @@ npm install chart.js
 ````
 
 
-<h2 id="Inicialização">📲 Como Inicializar e Configurar</h2>
+<h2 id="Inicialização">Como Inicializar e Configurar</h2>
 
 Para rodar o projeto localmente, é necessário ter os seguintes programas instalados:
 - [PHP](https://www.php.net/)
@@ -103,7 +103,7 @@ http://localhost/coronavirus-dashboard/
 
 
 
-<h2 id="BD">🪑 Banco de Dados</h2>
+<h2 id="BD">Banco de Dados</h2>
 
 **phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs:
 - Data e horário do último acesso `(dd/mm/aaaa - hh:mm:ss)`
@@ -133,7 +133,7 @@ Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu
 
 
 
-<h2 id="Contatos">📲 Contatos</h2>
+<h2 id="Contatos">Contatos</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
     <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="5%" />
