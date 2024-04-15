@@ -21,12 +21,12 @@
 
 <p align="center">
     <samp>
-    <a href="#About">ABOUT</a>
-   | <a href="#Technologies">TECHNOLOGIES</a>
-   | <a href="#Usage">USAGE</a>
-   | <a href="#Resources">RESOURCES</a>
-   | <a href="#Documentation">DOCUMENTATION</a>
-   | <a href="#Feedbacks">FEEDBACKS</a>
+    <a href="#Sobre">SOBRE</a>
+   | <a href="#Tecnologias">TECNOLOGIAS</a>
+   | <a href="#Dependências">DEPENDÊNCIAS</a>
+   | <a href="#Inicialização">INICIALIZAÇÃO</a>
+   | <a href="#BD">BANCO DE DADOS</a>
+   | <a href="#Contatos">CONTATOS</a>
      </samp>
 </p>
 
@@ -73,10 +73,10 @@ Para rodar o projeto localmente, é necessário ter os seguintes programas insta
 - [Composer](https://getcomposer.org/)
 
 ### Caso não os tenha, recomendo seguir a ordem dos tutoriais:
-- Como Instalar **XAMPP**:
+- Como instalar **XAMPP**:
    [LINK](https://www.youtube.com/watch?v=VCHXCusltqI)
 
-- Como Instalar **PHP** e **Composer**: 
+- Como instalar **PHP** e **Composer**: 
    [LINK](https://www.youtube.com/watch?v=pS0U-PsXUlg)
 
 >**OBS:**  No tutorial de instalação do **Composer**, é importante utilizar o caminho do arquivo correto. <br>
@@ -102,7 +102,7 @@ http://localhost/coronavirus-dashboard/
 
 
 
-<h2 id="Banco de Dados">🪑 Banco de Dados</h2>
+<h2 id="BD">🪑 Banco de Dados</h2>
 
 **phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs:
 - Data e horário do último acesso `(dd/mm/aaaa - hh:mm:ss)`
@@ -132,7 +132,7 @@ Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu
 
 
 
-<h2 id="Contact">📲 Contact</h2>
+<h2 id="Contatos">📲 Contatos</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
     <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="5%" />
