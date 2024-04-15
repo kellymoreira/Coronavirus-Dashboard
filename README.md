@@ -26,7 +26,8 @@
    | <a href="#Dependências">DEPENDÊNCIAS</a>
    | <a href="#Inicialização">INICIALIZAÇÃO</a>
    | <a href="#BD">BANCO DE DADOS</a>
-   | <a href="#Contatos">CONTATOS</a>
+   | <a href="#Melhorias">MELHORIAS</a>
+   | <a href="#Contato">CONTATO</a>
      </samp>
 </p>
 
@@ -141,13 +142,17 @@ Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu
 
 
 
+<h2 id="Melhorias">Melhorias em mente</h2>
+
+- **Interface**: Separar 'Países Disponíveis' e 'Dados Disponíveis' em duas colunas.
+- **Apariçãos dos Dados**: Ao invés do padrão ser 'Brazil', mostrar primeiro que o usuário deve escolher um país, e então mostrar os dados.
+- **Barra de Navegação**: Adicionar uma barra de navegação no canto superior direito.
 
 
 
 
 
-
-<h2 id="Contatos">Contatos</h2>
+<h2 id="Contato">Contato</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
     <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="5%" />
