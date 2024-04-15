@@ -12,10 +12,10 @@
 
 
 <p align="center">
-        <img alt="Project Made at April 2024" src="https://img.shields.io/badge/%20%20creation-march%2F2024-91ddf7">
-        <img alt="Code Size in bytes" src="https://img.shields.io/github/languages/code-size/kellymoreira/ATM-Bank-System?color=fcb3cf" />
-	<img alt="Main Language" src="https://img.shields.io/github/languages/top/kellymoreira/ATM-Bank-System?color=4682B4"/>
-        <img alt="Project Status" src="https://img.shields.io/badge/status-completed-91ddf7">
+        <img alt="Project Made at April 2024" src="https://img.shields.io/badge/%20%20creation-march%2F2024-be0ea3">
+        <img alt="Code Size in bytes" src="https://img.shields.io/github/languages/code-size/kellymoreira/ATM-Bank-System?color=25beae" />
+	<img alt="Main Language" src="https://img.shields.io/github/languages/top/kellymoreira/ATM-Bank-System?color=be0ea3"/>
+      <!--  <img alt="Project Status" src="https://img.shields.io/badge/status-completed-25beae"> -->
 </p>
 
 
