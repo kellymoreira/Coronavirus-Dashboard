@@ -73,11 +73,11 @@ Para rodar o projeto localmente, é necessário ter os seguintes programas insta
 - [Composer](https://getcomposer.org/)
 
 ### Caso não os tenha, recomendo seguir a ordem dos tutoriais:
-- Como Instalar XAMPP:
-   [Link](https://www.youtube.com/watch?v=VCHXCusltqI)
+- Como Instalar **XAMPP**:
+   [LINK](https://www.youtube.com/watch?v=VCHXCusltqI)
 
-- Como Instalar PHP e Composer: 
-   [Link](https://www.youtube.com/watch?v=pS0U-PsXUlg)
+- Como Instalar **PHP** e **Composer**: 
+   [LINK](https://www.youtube.com/watch?v=pS0U-PsXUlg)
 
 >**OBS:**  No tutorial de instalação do **Composer**, é importante utilizar o caminho do arquivo correto. <br>
 Assim como está descrito: `C:\xampp\php\php.exe`* <br>
@@ -86,9 +86,9 @@ Assim como está descrito: `C:\xampp\php\php.exe`* <br>
 
 
 ## Dependências Instaladas? Vamos rodar:
-1. Abra o **XAMPP** e clique no botão `start` dos serviços `Apache` e `MySQL`
+- Abra o **XAMPP** e clique no botão `start` dos serviços `Apache` e `MySQL`
 
-2. Com os serviços rodando, abra o diretório local `C:\xampp\htdocs` e clone o projeto:
+- Com os serviços rodando, abra o diretório local `C:\xampp\htdocs` e clone o projeto:
 ````
 $ git clone https://github.com/kellymoreira/Coronavirus-Dashboard.git
 ````
@@ -97,7 +97,7 @@ $ git clone https://github.com/kellymoreira/Coronavirus-Dashboard.git
 Tenha certeza de abrir o arquivo `coronavirus-dashboard` na localização:
 `C:\xampp\htdocs\coronavirus-dashboard`
 
-Com os serviços devidamente ativados, digite no Navegador: <br>
+Com tudo funcionando, digite no navegador: <br>
 http://localhost/coronavirus-dashboard/
 
 
