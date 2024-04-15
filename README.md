@@ -36,7 +36,7 @@
 >*O exercício consistirá na construção de um sistema (interface web) que possibilite ao usuário obter informações sobre os casos de mortes por Covid. Estes dados serão obtidos por meio da API-Covid-19 que está >disponível no servidor da Kidopi. É possível obter dados do número de casos confirmados e mortes de vários países afetados pela COVID-19.* <br>
 
 
-<h2 id="Technologies">🛠️ Technologies</h2>
+<h2 id="Tecnologias">🛠️ Tecnologias</h2>
 
 - `XAMPP`
 - `PHP`
@@ -46,23 +46,16 @@
 - `HTML`
 - `Chart.js`
 
-
-
-
-<h2 id="Screenshot">🛠️ Screenshot</h2>
-
-<h2 id="Video">🎥 Video</h2>
-
 <h2 id="Dependências">📲 Dependências</h2>
 
 - **XAMPP Control Panel v3.3.0**: Utilizado para criar um ambiente de desenvolvimento local.
 - **PHP v8.2.12**: Linguagem utilizada no backend.
 - **MySQL**: Banco de Dados para guardar os horários e datas de acesso.
-- **JavaScript, CSS3, HTML5**: Construção da interfaces para o usuário.
+- **JavaScript, CSS3, HTML5**: Construção da interface para o usuário.
 - **Chart.js 4.4.2**: Biblioteca JavaScript para criação de gráficos e visualizações de dados.
 
 
-<h2 id="Configuração">📲 Como Inicializar e Configurar</h2>
+<h2 id="Inicialização">📲 Como Inicializar e Configurar</h2>
 
 Para rodar o projeto localmente, é necessário ter os seguintes programas instalados:
 - [PHP](https://www.php.net/)
@@ -99,8 +92,11 @@ http://localhost/coronavirus-dashboard/
 
 
 
-<h2 id="Banco de Dados">🪑 Configuração do Banco de Dados</h2>
-phpMyAdmin foi utilizado para administrar os dados de acesso aos logs.
+<h2 id="Banco de Dados">🪑 Banco de Dados</h2>
+**phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs.
+
+### Configurando:
+1. 
 
 Preview SQL
 ```sql
