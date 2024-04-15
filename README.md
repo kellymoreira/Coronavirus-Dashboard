@@ -93,10 +93,10 @@ http://localhost/coronavirus-dashboard/
 
 
 <h2 id="Banco de Dados">🪑 Banco de Dados</h2>
+
 **phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs.
 
 ### Configurando:
-1. 
 
 Preview SQL
 ```sql
@@ -108,7 +108,7 @@ PRIMARY KEY (`id`)) ENGINE = InnoDB;
 ```
 
 É importante possuir uma senha configurada para conectar o Banco de Dados.
-Caso não possuir uma, assista esse vídeo para configurar uma: <br>
+Caso não possuir, assista esse vídeo para configurar uma: <br>
 [Link](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
 
 
