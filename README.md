@@ -27,7 +27,7 @@
    | <a href="#Inicialização">INICIALIZAÇÃO</a>
    | <a href="#BD">BANCO DE DADOS</a>
    | <a href="#Screenshot">SCREENSHOT</a>
-   | <a href="#Vídeo">VÍDEO PREVIEW</a>
+   | <a href="#Vídeo">VÍDEO</a>
    | <a href="#Melhorias">MELHORIAS</a>
    | <a href="#Contato">CONTATO</a>
      </samp>
@@ -154,8 +154,7 @@ Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu
 
 <h2 id="Vídeo">Vídeo Preview</h2>
 
-
-
+https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-ab0b-45e1-a49a-146f2e585b49
 
 
 
