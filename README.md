@@ -108,7 +108,7 @@ http://localhost/coronavirus-dashboard/
 
 **phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs:
 - Data e horário do último acesso `(dd/mm/aaaa - hh:mm:ss)`
-- Qual país foi Consultado `(Brazil, Australia ou Canada)`
+- Qual país foi consultado `(Brazil, Australia ou Canada)`
 
 ### Configurando:
 
