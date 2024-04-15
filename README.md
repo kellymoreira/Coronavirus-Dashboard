@@ -63,14 +63,14 @@ Para rodar o projeto localmente, é necessário ter os seguintes programas insta
 - [Composer](https://getcomposer.org/)
 
 ### Caso não os tenha, recomendo seguir a ordem dos tutoriais:
-1. Como Instalar XAMPP:
+- Como Instalar XAMPP:
    [Link](https://www.youtube.com/watch?v=VCHXCusltqI)
 
-2. Como Instalar PHP e Composer: 
+- Como Instalar PHP e Composer: 
    [Link](https://www.youtube.com/watch?v=pS0U-PsXUlg)
 
-**Observação:** No tutorial de Instalação do Composer, no Setup, é **importante** utilizarmos o caminho do arquivo correto. <br>
-Assim como está descrito: `C:\xampp\php\php.exe`
+>**OBS:**  No tutorial de instalação do **Composer**, é importante utilizar o caminho do arquivo correto. <br>
+Assim como está descrito: `C:\xampp\php\php.exe`* <br>
 
 <img src="readme-files/xampp-location.png"  alt="xampp" width="50%"/>
 
@@ -82,7 +82,8 @@ Assim como está descrito: `C:\xampp\php\php.exe`
 ````
 $ git clone https://github.com/kellymoreira/Coronavirus-Dashboard.git
 ````
-**Importante**
+**Importante** 
+<br>
 Tenha certeza de abrir o arquivo `coronavirus-dashboard` na localização:
 `C:\xampp\htdocs\coronavirus-dashboard`
 
@@ -90,17 +91,16 @@ Com os serviços devidamente ativados, digite no Navegador: <br>
 http://localhost/coronavirus-dashboard/
 
 
-
+<br>
 <h2 id="Banco de Dados">🪑 Banco de Dados</h2>
 
-**phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs.
+**phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs:
+- Data e horário do último acesso `(dd/mm/aaaa - hh:mm:ss)`
+- Qual país foi Consultado `(Brazil, Australia ou Canada)`
 
 ### Configurando:
 
-Database: covid_19
-Table: access_records
-
-
+**SQL preview**
 ```sql
 CREATE TABLE `covid_19`.`access_records` (
 `id` INT NULL AUTO_INCREMENT , 
@@ -109,9 +109,9 @@ CREATE TABLE `covid_19`.`access_records` (
 PRIMARY KEY (`id`)) ENGINE = InnoDB;
 ```
 
-É importante possuir uma senha configurada para conectar o Banco de Dados.
-Caso não possuir, assista esse vídeo para configurar uma: <br>
-[Confira](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
+Para a conexão funcionar corretamente, vale ressaltar a importância de possuir uma senha configurada. <br>
+Quando acessado o Banco de Dados de início, não há uma senha pré-configurada.
+Caso não possuir, assista esse vídeo para configurar uma: [Confira](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
 
 
 
@@ -119,6 +119,9 @@ Caso não possuir, assista esse vídeo para configurar uma: <br>
 
 
 
+
+
+<br>
 <h2 id="Contact">📲 Contact</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
