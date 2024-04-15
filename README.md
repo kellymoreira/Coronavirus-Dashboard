@@ -31,7 +31,7 @@
 </p>
 
 
-<h2 id="About">📋About</h2>
+<h2 id="Sobre">📋Sobre</h2>
 
 >*O exercício consistirá na construção de um sistema (interface web) que possibilite ao usuário obter informações sobre os casos de mortes por Covid. Estes dados serão obtidos por meio da API-Covid-19 que está >disponível no servidor da Kidopi. É possível obter dados do número de casos confirmados e mortes de vários países afetados pela COVID-19.* <br>
 
@@ -124,7 +124,3 @@ Caso não possuir uma, assista esse vídeo para configurar uma: <br>
 <a href="your_link_here">
     <img src="./img/gmail.png" alt="ATM Bank System" width="8%" />
 </a>
-
-
-## © Credits
-Credit Card Icon: [pluspng.com](https://pluspng.com/)
