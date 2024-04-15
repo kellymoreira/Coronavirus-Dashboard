@@ -1,5 +1,9 @@
 <?php
 
+/*********************************************************************************************
+ * Configuração de Variáveis de Ambiente para Conexão com Banco de Dados
+ *********************************************************************************************/
+
     // Inclui o arquivo autoload.php do Composer para carregar as dependências
     require './vendor/autoload.php'; 
     
