@@ -33,8 +33,8 @@
 
 <h2 id="Sobre">Sobre</h2>
 
->**Coronavirus Dashboard** é um sistema que permite ao usuário obter informações sobre os casos de mortes por Covid-19. <br>
->Ele fornece dados sobre o número de casos confirmados e mortes em três países específicos afetados pela doença. <br>
+>**Coronavirus Dashboard** é um sistema que permite o usuário obter informações sobre os casos de mortes e confirmados que foram afetados pela Covid-19. <br>
+>Ele fornece dados sobre o número de casos confirmados e mortes em três países específicos. <br>
 
 **Deploy:** https://bit.ly/coronavirus-dashboard-countries
 
