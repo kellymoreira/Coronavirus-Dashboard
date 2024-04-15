@@ -112,7 +112,7 @@ http://localhost/coronavirus-dashboard/
 ### Configurando:
 
 Crie um arquivo `.env` com as informações específicas do Banco de Dados criado
-```sql
+```
 DB_HOST=host
 DB_NAME=database
 DB_USER=user
@@ -120,7 +120,7 @@ DB_PASSWORD=password
 ```
 
 **SQL preview**
-```
+```sql
 CREATE TABLE `covid_19`.`access_records` (
 `id` INT NULL AUTO_INCREMENT , 
 `access_date_time` DATETIME NOT NULL , 
