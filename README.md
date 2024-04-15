@@ -111,7 +111,7 @@ PRIMARY KEY (`id`)) ENGINE = InnoDB;
 
 Para a conexão funcionar corretamente, vale ressaltar a importância de possuir uma senha configurada. <br>
 Quando acessado o Banco de Dados de início, não há uma senha pré-configurada.
-Caso não possuir, assista esse vídeo para configurar uma: [link](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
+Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
 
 
 
@@ -125,8 +125,8 @@ Caso não possuir, assista esse vídeo para configurar uma: [link](https://youtu
 <h2 id="Contact">📲 Contact</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
-    <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="8%" />
+    <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="5%" />
 </a>
 <a href="mailto:kelly.moreira0510@gmail.com">
-    <img src="readme-files/gmail.png" alt="Gmail Icon" width="8%" />
+    <img src="readme-files/gmail.png" alt="Gmail Icon" width="5%" />
 </a>
