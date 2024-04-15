@@ -114,11 +114,16 @@ Caso não possuir, assista esse vídeo para configurar uma: <br>
 [Confira](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
 
 
+
+
+
+
+
 <h2 id="Contact">📲 Contact</h2>
 
-<a href="your_link_here">
-    <img src="./img/linkedin.png" alt="ATM Bank System" width="8%" />
+<a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
+    <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="8%" />
 </a>
-<a href="your_link_here">
-    <img src="./img/gmail.png" alt="ATM Bank System" width="8%" />
+<a href="mailto:kelly.moreira0510@gmail.com">
+    <img src="readme-files/gmail.png" alt="Gmail Icon" width="8%" />
 </a>
