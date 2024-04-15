@@ -161,7 +161,7 @@ https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-
 
 <h2 id="Melhorias">Melhorias em mente</h2>
 
-- **Interface**: Separar 'Países Disponíveis' e 'Dados Disponíveis' em duas colunas.
+- **Interface**: Separar 'Países Disponíveis' e 'Dados do País' em duas colunas.
 - **Apariçãos dos Dados**: Ao invés do padrão ser 'Brazil', mostrar primeiro que o usuário deve escolher um país, e então mostrar os dados.
 - **Barra de Navegação**: Adicionar uma barra de navegação no canto superior direito.
 
