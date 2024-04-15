@@ -72,8 +72,7 @@ Para rodar o projeto localmente, é necessário ter os seguintes programas insta
 **Observação:** No tutorial de Instalação do Composer, no Setup, é **importante** utilizarmos o caminho do arquivo correto. <br>
 Assim como está descrito: `C:\xampp\php\php.exe`
 
-<img src="xampp-location.png"  alt="xampp" width="50%"/>
-
+<img src="readme-files/xampp-location.png"  alt="xampp" width="50%"/>
 
 
 ## Dependências Instaladas? Vamos rodar:
@@ -98,7 +97,10 @@ http://localhost/coronavirus-dashboard/
 
 ### Configurando:
 
-Preview SQL
+Database: covid_19
+Table: access_records
+
+
 ```sql
 CREATE TABLE `covid_19`.`access_records` (
 `id` INT NULL AUTO_INCREMENT , 
@@ -109,7 +111,7 @@ PRIMARY KEY (`id`)) ENGINE = InnoDB;
 
 É importante possuir uma senha configurada para conectar o Banco de Dados.
 Caso não possuir, assista esse vídeo para configurar uma: <br>
-[Link](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
+[Confira](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
 
 
 <h2 id="Contact">📲 Contact</h2>
