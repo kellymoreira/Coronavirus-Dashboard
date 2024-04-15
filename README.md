@@ -1,6 +1,6 @@
-<!-- <p align="center">
-<img src="./img/covid.png"  alt="Covid-19" width="30%"/>
-</p> -->
+<p align="center">
+<img src="readme-files/covid-19.png"  alt="Covid-19" width="30%"/>
+</p>
 
 <h1 align="center">
     Coronavírus Dashboard
