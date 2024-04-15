@@ -33,8 +33,8 @@
 
 <h2 id="Sobre">Sobre</h2>
 
->**Coronavirus Dashboard** consiste num sistema que possibilita o usuário obter informações sobre os casos de mortes por Covid-19. <br>
->Dados sobre o número de casos confirmados e mortes de três países em específico afetados pelo Coronavírus. <br>
+>**Coronavirus Dashboard** é um sistema que permite ao usuário obter informações sobre os casos de mortes por Covid-19. <br>
+>Ele fornece dados sobre o número de casos confirmados e mortes em três países específicos afetados pela doença. <br>
 
 
 <h2 id="Tecnologias">Tecnologias</h2>
@@ -111,14 +111,25 @@ http://localhost/coronavirus-dashboard/
 
 ### Configurando:
 
-**SQL preview**
+Crie um arquivo `.env` com as informações específicas do Banco de Dados criado
 ```sql
+DB_HOST=host
+DB_NAME=database
+DB_USER=user
+DB_PASSWORD=password
+```
+
+**SQL preview**
+```
 CREATE TABLE `covid_19`.`access_records` (
 `id` INT NULL AUTO_INCREMENT , 
 `access_date_time` DATETIME NOT NULL , 
 `country` VARCHAR(50) NOT NULL , 
 PRIMARY KEY (`id`)) ENGINE = InnoDB;
 ```
+
+
+
 
 Para a conexão funcionar corretamente, vale ressaltar a importância de possuir uma senha configurada. <br>
 Quando acessado o Banco de Dados de início, não há uma senha pré-configurada.
