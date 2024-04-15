@@ -36,7 +36,9 @@
 >**Coronavirus Dashboard** é um sistema que permite o usuário obter informações sobre os casos de mortes e confirmados que foram afetados pela Covid-19. <br>
 >Ele fornece dados sobre o número de casos confirmados e mortes em três países específicos. <br>
 
-**Deploy:** https://bit.ly/coronavirus-dashboard-countries
+**Deploy:** https://coronavirus-dashboard.000webhostapp.com/ 
+<br>
+**Inspiração:** Front-end inspirado no site [Coronavírus Brasil](https://covid.saude.gov.br/)
 
 <h2 id="Tecnologias">Tecnologias</h2>
 
