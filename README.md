@@ -1,13 +1,13 @@
-<p align="center">
+<!-- <p align="center">
 <img src="./img/covid.png"  alt="Covid-19" width="30%"/>
-</p>
+</p> -->
 
 <h1 align="center">
     Coronavírus Dashboard
 </h1>
 
 <p align="center">
-   <b><i>A Brief Description.</i></b><br>
+   <b><i>Exibição dos Dados de Óbitos e Casos de Covid-19 nos países Brazil, Canada e Australia.</i></b><br>
 </p>
 
 
@@ -31,9 +31,10 @@
 </p>
 
 
-<h2 id="Sobre">📋Sobre</h2>
+<h2 id="Sobre">📋 Sobre</h2>
 
->*O exercício consistirá na construção de um sistema (interface web) que possibilite ao usuário obter informações sobre os casos de mortes por Covid. Estes dados serão obtidos por meio da API-Covid-19 que está >disponível no servidor da Kidopi. É possível obter dados do número de casos confirmados e mortes de vários países afetados pela COVID-19.* <br>
+>**Coronavirus Dashboard** consiste num sistema que possibilita o usuário obter informações sobre os casos de mortes por Covid-19. <br>
+>Dados sobre o número de casos confirmados e mortes de três países em específico afetados pelo Coronavírus.* <br>
 
 
 <h2 id="Tecnologias">🛠️ Tecnologias</h2>
