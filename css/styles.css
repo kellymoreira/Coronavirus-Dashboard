@@ -1,0 +1,393 @@
+body {
+  background: #f4fbf9;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  font-size: 1.6em;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #000;
+}
+
+/* Configuração da NavBar (Tamanho, Largura, Fixação, etc) */
+.navbar {
+  position: fixed; 
+  z-index: 1;
+  width: 100%; 
+  background: #fff;
+  border: 1px solid #DBE9F5;
+  height: 80px;
+  padding: 20px 0;
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
+}
+
+/* Heading & Subheading (CORONAVÍRUS // DASHBOARD) */
+.navbar a.site-heading,
+.navbar a.site-subheading {
+  font-size: 2.4rem;
+  display: block;
+  transition: color 0.3s ease;
+}
+
+/* Heading (CORONAVÍRUS) */
+.navbar a.site-heading {
+  color: #193148;
+  font-weight: bold;
+  margin: 0 5px 10px 40px;
+}
+
+/* Subheading (DASHBOARD)  */
+.navbar a.site-subheading {
+  color: #193148;
+  font-weight: italic;
+  margin: 0 0px 0px 5px;
+}
+
+/* Cor da palavra modifica quando passa o mouse em Heading & Subheading (CORONAVÍRUS // DASHBOARD) */
+.navbar a.site-heading:hover,
+.navbar a.site-subheading:hover {
+  color: #696d71;
+}
+
+/* Tamanho, Cor, Estilização dos Cards*/
+.card {
+  background: #fff;
+  border: 1px solid #DBE9F5;
+  box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2.2rem;
+  border-radius: 20px;
+}
+
+/* Tamanho e Centralização do Gráfico dentro do Card */
+.card .canvas-wrapper {
+  width: 95%;
+  margin: 0 auto;
+}
+
+/* Linha (Divisão) e Posição dos Títulos dentro dos Cards */
+.card .card-title {
+  border-bottom: 1px solid #eee;
+  padding: 15px 20px;
+}
+
+
+/* Posiçãos dos Títulos: Países Disponíveis - Dados do País - Dados por Estado (título h3 de cada card) */
+.card .card-title h3 {
+  margin: 0;
+  padding: 0;
+}
+
+/* Tamanho e Largura da Posição do Conteúdo dos Cards Países 'Disponíveis' e 'Dados do País' */
+.card .card-block {
+  padding: 10px 20px;
+}
+
+
+/* Cor da borda em volta do botão 'Selecione' */
+select:focus {
+  border: 1px solid #c5c7cc
+  !important;
+}
+
+/* Tamanho (width) do Botão 'Selecionar' entre os três países */
+select {
+  max-width: 31rem;
+}
+
+
+/* Tamanho, Cor, Espaçamento entre Letras do país escolhido */
+.country-name {
+  font-weight: italic;
+  color: #c5c7cc;
+  margin-bottom: 5px; /* largura entre o nome do país até os dados apresentados */
+  font-size: 2.4rem;
+  letter-spacing: -0.7px;
+
+   /* Define a fonte em negrito */
+  /*color: #193148;  Define a cor do texto */  /* #696d71;*/
+
+  /*
+  display: block;
+    font-weight: 700;
+    */
+}
+
+/* Estilização para 'CASOS CONFIRMADOS' */
+.confirmed-cases-number {
+  font-weight: 550;
+  color: #193148;
+  min-width: 116px;
+  margin: 12px 8px 0 0;
+  font-size: 27px;
+  line-height: 20px;
+  letter-spacing: -0.7px;
+}
+
+/* Estilização para 'ÓBITOS CONFIRMADOS' */
+.confirmed-deaths-number {
+  font-weight: 550;
+  color: #193148;
+  min-width: 116px;
+  margin: 12px 8px 0 0;
+  font-size: 27px;
+  line-height: 20px;
+  letter-spacing: -0.7px;
+}
+
+/* Tamanho, Posição, e Espaçamento entre Letras de 'CASOS CONFIRMADOS' e 'ÓBITOS CONFIRMADOS' */
+.confirmed-label {
+  margin-top: 12px;
+  font-size: 12px;
+  line-height: 6px;
+  font-weight: bold;
+  letter-spacing: -0.31px;
+}
+
+/* Cor do 'CASOS CONFIRMADOS' */
+.confirmed-label.cases {
+  color: #be0ea3;
+}
+
+/* Cor de 'ÓBITOS CONFIRMADOS' */
+.confirmed-label.deaths {
+  color: #25beae;
+}
+
+/* Tamanho, Largura do conteúdo da página*/
+#main-content {
+  /*width: 80% !important;
+  padding: 20px 5.5rem !important;
+  margin-top: 95px; A largura da parte de cima
+  margin-right: 12px;*/
+
+  width: 100% !important;
+  padding: 20px 5.5rem !important;
+  margin-top: 95px;
+}
+
+
+/* Rodapé da página do horário e data de último acesso */
+.rodape {
+  text-align: center;
+  /*margin-top: 20px;*/
+  color: #c5c7cc;
+  font-size: 15px;
+  font-weight: bold;
+  /*text-transform: uppercase;*/
+}
+
+
+/************ MOBILE ************/
+@media (max-width: 640px) {
+
+  .row,
+  .row.grid-responsive {
+    flex-direction: column;
+  }
+
+  .row.grid-responsive .column,
+  .row.grid-responsive .column.column-10,
+  .row.grid-responsive .column.column-20,
+  .row.grid-responsive .column.column-25,
+  .row.grid-responsive .column.column-33,
+  .row.grid-responsive .column.column-40,
+  .row.grid-responsive .column.column-50,
+  .row.grid-responsive .column.column-60,
+  .row.grid-responsive .column.column-66,
+  .row.grid-responsive .column.column-67,
+  .row.grid-responsive .column.column-75,
+  .row.grid-responsive .column.column-80,
+  .row.grid-responsive .column.column-90,
+  .row.grid-responsive .column.column-100 {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .navbar {
+    height: auto;
+    position: static;
+  }
+
+  .navbar .user-section {
+    text-align: left;
+  }
+
+  .navbar .row .column,
+  .navbar .row .column.column-10,
+  .navbar .row .column.column-20,
+  .navbar .row .column.column-25,
+  .navbar .row .column.column-33,
+  .navbar .row .column.column-40,
+  .navbar .row .column.column-50,
+  .navbar .row .column.column-60,
+  .navbar .row .column.column-66,
+  .navbar .row .column.column-67,
+  .navbar .row .column.column-75,
+  .navbar .row .column.column-80,
+  .navbar .row .column.column-90,
+  .navbar .row .column.column-100 {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 20px;
+  }
+
+  .navbar a.site-heading {
+    margin-left: 0;
+  }
+
+  .navbar .col-search .search-btn {
+    top: 12px;
+  }
+
+  .navbar input[type=text] {
+    margin: 0;
+  }
+
+  /*
+  #sidebar {
+    position: static;
+    width: 100% !important;
+    padding: 10px 20px !important;
+    margin: 0;
+    height: auto;
+    left: 0; }
+    */
+
+  #main-content {
+    width: 100% !important;
+    display: block !important;
+    margin: 0;
+    padding: 1.5rem !important;
+  }
+
+  .card .card-title,
+  .card .card-block {
+    padding: 10px 15px;
+  }
+
+  .user-section {
+    display: none;
+  }
+}
+
+
+
+
+
+/*********************** TABLET **************************/
+@media (min-width: 640px) and (max-width: 768px) {
+  /*
+  #sidebar {
+    width: 30% !important; }
+    */
+
+  #main-content {
+    width: 70% !important;
+    margin-left: 30%;
+  }
+
+  .navbar .row .column,
+  .navbar .row .column.column-10,
+  .navbar .row .column.column-20,
+  .navbar .row .column.column-25,
+  .navbar .row .column.column-33,
+  .navbar .row .column.column-40,
+  .navbar .row .column.column-50,
+  .navbar .row .column.column-60,
+  .navbar .row .column.column-66,
+  .navbar .row .column.column-67,
+  .navbar .row .column.column-75,
+  .navbar .row .column.column-80,
+  .navbar .row .column.column-90,
+  .navbar .row .column.column-100 {
+    width: 50%;
+    max-width: 50%;
+  }
+
+  .navbar .site-heading {
+    font-size: 18px !important;
+    padding-top: 5px;
+  }
+
+  .row.grid-responsive {
+    flex-direction: column;
+  }
+
+  .row.grid-responsive .column,
+  .row.grid-responsive .column.column-10,
+  .row.grid-responsive .column.column-20,
+  .row.grid-responsive .column.column-25,
+  .row.grid-responsive .column.column-33,
+  .row.grid-responsive .column.column-40,
+  .row.grid-responsive .column.column-50,
+  .row.grid-responsive .column.column-60,
+  .row.grid-responsive .column.column-66,
+  .row.grid-responsive .column.column-67,
+  .row.grid-responsive .column.column-75,
+  .row.grid-responsive .column.column-80,
+  .row.grid-responsive .column.column-90,
+  .row.grid-responsive .column.column-100 {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .card .canvas-wrapper {
+    width: 90%;
+  }
+
+  .user-section {
+    margin-right: 20px;
+  }
+
+  .user-section .username {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 960px) {
+  .row.grid-responsive {
+    flex-direction: column;
+  }
+
+  .row.grid-responsive .column,
+  .row.grid-responsive .column.column-10,
+  .row.grid-responsive .column.column-20,
+  .row.grid-responsive .column.column-25,
+  .row.grid-responsive .column.column-33,
+  .row.grid-responsive .column.column-40,
+  .row.grid-responsive .column.column-50,
+  .row.grid-responsive .column.column-60,
+  .row.grid-responsive .column.column-66,
+  .row.grid-responsive .column.column-67,
+  .row.grid-responsive .column.column-75,
+  .row.grid-responsive .column.column-80,
+  .row.grid-responsive .column.column-90,
+  .row.grid-responsive .column.column-100 {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /*
+  #sidebar {
+    width: 30% !important; }
+    */
+
+  #main-content {
+    width: 70% !important;
+    margin-left: 30%;
+  }
+
+  .card .canvas-wrapper {
+    width: 95%;
+  }
+
+  .user-section {
+    margin-right: 20px;
+  }
+
+  .user-section .username {
+    display: none;
+  }
+}
