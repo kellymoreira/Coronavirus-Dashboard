@@ -164,6 +164,7 @@ https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-
 - **Interface**: Separar 'Países Disponíveis' e 'Dados do País' em duas colunas.
 - **Apariçãos dos Dados**: Ao invés do padrão ser 'Brazil', mostrar primeiro que o usuário deve escolher um país, e então mostrar os dados.
 - **Barra de Navegação**: Adicionar uma barra de navegação no canto superior direito.
+- **Responsividade**: Organizar de maneira mais precisa como o site é visualizado por diferentes dispositivos
 
 
 
