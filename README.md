@@ -54,6 +54,16 @@
 - **JavaScript, CSS3, HTML5**: Construção da interface para o usuário.
 - **Chart.js 4.4.2**: Biblioteca JavaScript para criação de gráficos e visualizações de dados.
 
+### Instalação
+**Composer**
+````
+composer install
+````
+**Chart.js**
+````
+npm install chart.js
+````
+
 
 <h2 id="Inicialização">📲 Como Inicializar e Configurar</h2>
 
@@ -91,7 +101,7 @@ Com os serviços devidamente ativados, digite no Navegador: <br>
 http://localhost/coronavirus-dashboard/
 
 
-<br>
+
 <h2 id="Banco de Dados">🪑 Banco de Dados</h2>
 
 **phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs:
@@ -121,7 +131,7 @@ Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu
 
 
 
-<br>
+
 <h2 id="Contact">📲 Contact</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
