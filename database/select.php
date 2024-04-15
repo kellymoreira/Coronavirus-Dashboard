@@ -2,7 +2,7 @@
 
 /***************************************************************************************************
  * Recupera e exibe informações sobre o último acesso registrado no sistema de monitoramento 
- * COVID-19 no banco de dados 'covid_19' na tabela 'access_records' do MySQL.
+ * COVID-19 no banco de dados 'covid_19' na tabela 'access_records' do phpMyAdmin.
  ***************************************************************************************************/
 
 // Inclui o arquivo de configuração que contém informações de conexão com o banco de dados
