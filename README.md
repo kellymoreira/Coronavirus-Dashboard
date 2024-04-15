@@ -26,6 +26,8 @@
    | <a href="#Dependências">DEPENDÊNCIAS</a>
    | <a href="#Inicialização">INICIALIZAÇÃO</a>
    | <a href="#BD">BANCO DE DADOS</a>
+   | <a href="#Screenshot">SCREENSHOT</a>
+   | <a href="#Vídeo">VÍDEO PREVIEW</a>
    | <a href="#Melhorias">MELHORIAS</a>
    | <a href="#Contato">CONTATO</a>
      </samp>
@@ -138,6 +140,22 @@ PRIMARY KEY (`id`)) ENGINE = InnoDB;
 Para a conexão funcionar corretamente, vale ressaltar a importância de possuir uma senha configurada. <br>
 Quando acessado o Banco de Dados de início, não há uma senha pré-configurada.
 Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu.be/LltCLFxQ2Yk?si=LBwfhjo7HOrWLCBH)
+
+
+
+
+<h2 id="Screenshots">Screenshots</h2>
+
+<img src="readme-files/I-screenshot.png"  alt="xampp" width="100%"/>
+
+<img src="readme-files/II-screenshot.png"  alt="xampp" width="100%"/>
+
+<img src="readme-files/III-screenshot.png"  alt="xampp" width="100%"/>
+
+<h2 id="Vídeo">Vídeo Preview</h2>
+
+
+
 
 
 
