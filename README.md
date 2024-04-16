@@ -168,13 +168,18 @@ https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-
 
 
 
-
-
 <h2 id="Contato">Contato</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
-    <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="5%" />
+    <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="7%" />
 </a>
 <a href="mailto:kelly.moreira0510@gmail.com">
-    <img src="readme-files/gmail.png" alt="Gmail Icon" width="5%" />
+    <img src="readme-files/gmail.png" alt="Gmail Icon" width="7%" />
 </a>
+
+<br>
+
+<br>
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kellymoreira/Coronavirus-Dashboard&right_color=HotPink">
+</p>
