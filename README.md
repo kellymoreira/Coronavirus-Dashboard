@@ -26,7 +26,7 @@
    | <a href="#Dependências">DEPENDÊNCIAS</a>
    | <a href="#Inicialização">INICIALIZAÇÃO</a>
    | <a href="#BD">BANCO DE DADOS</a>
-   | <a href="#Screenshot">SCREENSHOT</a>
+   | <a href="#Screenshots">SCREENSHOTS</a>
    | <a href="#Vídeo">VÍDEO</a>
    | <a href="#Melhorias">MELHORIAS</a>
    | <a href="#Contato">CONTATO</a>
@@ -34,7 +34,7 @@
 </p>
 
 
-<h2 id="Sobre">Sobre</h2>
+<h2 id="Sobre">📜 Sobre</h2>
 
 >**Coronavirus Dashboard** é um sistema que permite o usuário obter informações sobre os casos de mortes e confirmados que foram afetados pela Covid-19. <br>
 >Ele fornece dados sobre o número de casos confirmados e mortes em três países específicos. <br>
@@ -43,7 +43,7 @@
 <br>
 **Inspiração:** Front-end inspirado no site [Coronavírus Brasil](https://covid.saude.gov.br/)
 
-<h2 id="Tecnologias">Tecnologias</h2>
+<h2 id="Tecnologias">🛠️ Tecnologias</h2>
 
 - `XAMPP`
 - `PHP`
@@ -53,7 +53,7 @@
 - `HTML`
 - `Chart.js`
 
-<h2 id="Dependências">Dependências</h2>
+<h2 id="Dependências">📦 Dependências</h2>
 
 - **XAMPP Control Panel v3.3.0**: Utilizado para criar um ambiente de desenvolvimento local.
 - **PHP v8.2.12**: Linguagem utilizada no backend.
@@ -72,7 +72,7 @@ npm install chart.js
 ````
 
 
-<h2 id="Inicialização">Como Inicializar e Configurar</h2>
+<h2 id="Inicialização">⚙️ Como Inicializar e Configurar</h2>
 
 Para rodar o projeto localmente, é necessário ter os seguintes programas instalados:
 - [PHP](https://www.php.net/)
@@ -109,7 +109,7 @@ http://localhost/coronavirus-dashboard/
 
 
 
-<h2 id="BD">Banco de Dados</h2>
+<h2 id="BD">🗃️ Banco de Dados</h2>
 
 **phpMyAdmin** foi utilizado para administrar os dados de acesso aos logs:
 - Data e horário do último acesso `(dd/mm/aaaa - hh:mm:ss)`
@@ -144,7 +144,7 @@ Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu
 
 
 
-<h2 id="Screenshots">Screenshots</h2>
+<h2 id="Screenshots">📸 Screenshots</h2>
 
 <img src="readme-files/I-screenshot.png"  alt="xampp" width="100%"/>
 
@@ -152,14 +152,14 @@ Caso não possuir, assista esse vídeo para configurar uma: [LINK](https://youtu
 
 <img src="readme-files/III-screenshot.png"  alt="xampp" width="100%"/>
 
-<h2 id="Vídeo">Vídeo Preview</h2>
+<h2 id="Vídeo">🎥 Vídeo Preview</h2>
 
 https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-ab0b-45e1-a49a-146f2e585b49
 
 
 
 
-<h2 id="Melhorias">Melhorias em mente</h2>
+<h2 id="Melhorias">💡 Melhorias em mente</h2>
 
 - **Interface**: Separar 'Países Disponíveis' e 'Dados do País' em duas colunas.
 - **Apariçãos dos Dados**: Ao invés do padrão ser 'Brazil', mostrar primeiro que o usuário deve escolher um país, e então mostrar os dados.
@@ -168,7 +168,7 @@ https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-
 
 
 
-<h2 id="Contato">Contato</h2>
+<h2 id="Contato">☎️ Contato</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
     <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="7%" />
