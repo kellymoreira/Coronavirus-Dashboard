@@ -179,7 +179,8 @@ https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-
 
 <br>
 
+<!--
 <br>
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kellymoreira/Coronavirus-Dashboard&right_color=HotPink">
-</p>
+</p> -->
