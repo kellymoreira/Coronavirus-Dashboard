@@ -171,10 +171,10 @@ https://github.com/kellymoreira/Coronavirus-Dashboard/assets/129607885/7598248c-
 <h2 id="Contato">☎️ Contato</h2>
 
 <a href="https://www.linkedin.com/in/kelly-cristina-moreira/">
-    <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="7%" />
+    <img src="readme-files/linkedin.png" alt="LinkedIn Icon" width="35px" />
 </a>
 <a href="mailto:kelly.moreira0510@gmail.com">
-    <img src="readme-files/gmail.png" alt="Gmail Icon" width="7%" />
+    <img src="readme-files/gmail.png" alt="Gmail Icon" width="35px" />
 </a>
 
 <br>
